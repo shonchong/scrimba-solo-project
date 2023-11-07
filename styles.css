@@ -21,7 +21,7 @@ img {
     display:flex;
     flex-flow: column;
     height: 350px;
-    background:url(images/torshov.jpg);
+    background:url(torshov.jpg);
     background-size: cover;
     align-items: center;
     justify-content: center;
